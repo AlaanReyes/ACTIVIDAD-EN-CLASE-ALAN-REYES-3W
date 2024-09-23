@@ -1,7 +1,7 @@
 # ACTIVIDAD-EN-CLASE-ALAN-REYES-3W
 ACTIVIDAD EN CLASE SEP 23 2024
 
-print("#REYES MEZA ALAN EDUARDO : PR3_NUMBERS #NOMBRE PRACTICA Y DATOS DE PROGRAMADOR")
+print("#REYES MEZA ALAN EDUARDO : act- en clase #NOMBRE PRACTICA Y DATOS DE PROGRAMADOR")
 
 print(" ") #ESPACIO PARA AGREGAR LA INFO DE PRACTICA Y PROGRAMADOR
 
@@ -15,4 +15,5 @@ resultado = numero1 * numero2 * numero3 ## Realizar la multiplicación de los tr
 
 print(f"La multiplicación de {numero1}, {numero2} y {numero3} es: {resultado}") ## Mostrar el resultado de la multiplicación
 
-![image](https://github.com/user-attachments/assets/a085369f-0bb7-4c59-a76e-14c4b178eedf)
+![image](https://github.com/user-attachments/assets/3dc218ef-5074-4ed8-9ea5-8d2e117dd0f8)
+
