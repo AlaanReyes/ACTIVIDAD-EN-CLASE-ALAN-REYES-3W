@@ -30,9 +30,6 @@
 # EJECUTADO
 ![image](https://github.com/user-attachments/assets/0a27e113-8bb4-448a-a35e-103e4422eca4)
 
-# PROGRAMA 6 
-# CODIGO 
-
 
 
 
